@@ -69,9 +69,7 @@ const Hero = () => {
 
       <div className="container mx-auto px-4 md:px-8 relative z-10">
         <div className="max-w-3xl animate-fade-in-up">
-          <p className="text-[#D4AF37] font-semibold tracking-[0.3em] uppercase mb-4 text-sm md:text-base">
-            RC: 7180381
-          </p>
+
           <h1 className="text-4xl md:text-7xl text-white font-bold leading-tight mb-6">
             Building for Africans <br />
             <span className="text-[#D4AF37]">Home and Abroad</span>
@@ -500,10 +498,7 @@ const Footer = () => {
             </div>
             <span className="text-2xl font-bold tracking-tight">LUMUNGA <span className="text-[#D4AF37]">GLOBAL</span></span>
           </div>
-          <div className="text-center md:text-right">
-            <p className="text-gray-400 mb-1">Company Registration No.</p>
-            <p className="text-[#D4AF37] font-bold text-lg tracking-widest">RC: 7180381</p>
-          </div>
+
         </div>
 
         <div className="border-t border-white/10 pt-10 flex flex-col md:flex-row justify-between items-center gap-6">
